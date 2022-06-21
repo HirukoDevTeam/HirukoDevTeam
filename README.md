@@ -1,16 +1,19 @@
-### Hi there 👋
+### 💻 My Profile :
 
-<!--
-**Hirukox/Hirukox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi everyone ! I'm Hirukox, a single 18 yo french dev. Since 2 years, I spend my time on website. Precisely, dynamic website. Living near Paris, I'm actualy studying in l'ESGI (A famous informatic private school). I really love playing video games, resolving informatic problems and going out with some friends (yes..It happened sometimes).  
 
-Here are some ideas to get you started:
+### ✨ Skills :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+➡️ HTML
+
+➡️ CSS
+
+➡️ JS
+
+➡️ PHP
+
+➡️ Discord.py (Discord bot)
+
+### 💭 :
+
+""A computer would deserve to be called intelligent if it could deceive a human into believing that it was human."" A.Turing
