@@ -4,16 +4,17 @@ Hi everyone ! I'm Hirukox, a single 18 yo french dev. Since 2 years, I spend my 
 
 ### ✨ Skills :
 
-➡️ HTML
+➡️ HTML / CSS / JS / PHP
 
-➡️ CSS
+➡️ PYTHON / C / C#
 
-➡️ JS
+➡️ IP / ROUTING / OSI
 
-➡️ PHP
+➡️ CISCO / ZYXEL / FORTINET
 
-➡️ Discord.py (Discord bot)
+➡️ LINUX / WINDOWS
 
 ### 💭 :
 
 ""A computer would deserve to be called intelligent if it could deceive a human into believing that it was human."" A.Turing
+
