@@ -1,6 +1,6 @@
 ### 💻 My Profile :
 
-Hi everyone ! I'm Hirukox, a single 18 yo french dev. Since 2 years, I spend my time on website. Precisely, dynamic website. Living near Paris, I'm actualy studying in l'ESGI. I really love playing video games, resolving informatic problems and going out with some friends (yes..It happened sometimes).  
+Hi everyone ! I'm Hirukox, a single 19 yo french dev. Since 3 years, I spend my time on website. Precisely, dynamic website. Living near Paris, I'm actualy studying in l'ESGI. I really love playing video games, resolving informatic problems and going out with some friends (yes..It happened sometimes).  
 
 ### ✨ Skills :
 
