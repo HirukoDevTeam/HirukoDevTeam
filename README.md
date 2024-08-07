@@ -1,6 +1,6 @@
 ### 💻 My Profile :
 
-Hi everyone ! I'm HirukoDev, a single 20 yo french dev. Since 5 years, I spend my time on IT, more precisely on security system. Living near Paris, I'm actualy studying in l'ESGI. I really love playing video games, resolving computers issues and going out with some friends (yes..It happened sometimes).  
+Hi everyone ! I'm ELADev, a single 20 yo french dev. Since 5 years, I spend my time on IT, more precisely on security system. Living near Paris, I'm actualy studying in l'ESGI. I really love playing video games, resolving computers issues and going out with some friends (yes..It happened sometimes).  
 
 ### ✨ Skills :
 
